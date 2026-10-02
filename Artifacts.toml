@@ -1,0 +1,174 @@
+[[X42Zconvo]]
+arch = "aarch64"
+git-tree-sha1 = "41325dfaea981d6632e206a4b0cd9209edb6577f"
+os = "macos"
+
+    [[X42Zconvo.download]]
+    sha256 = "ee13e9c93034e1b6d27455bad36cbba3223c22425e3fa7be202760a536a35446"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.aarch64-apple-darwin.tar.gz"
+[[X42Zconvo]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aa96250438aeb97a6fd7cb3ffb1b632fd48a63e3"
+libc = "glibc"
+os = "linux"
+
+    [[X42Zconvo.download]]
+    sha256 = "038621db6cf74185d0152dea366a72323be74b6c0edf4944e21684719e3315ce"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.aarch64-linux-gnu-cxx11.tar.gz"
+[[X42Zconvo]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "97259347fb3476ba208b31d0c94f552b52d67e55"
+libc = "musl"
+os = "linux"
+
+    [[X42Zconvo.download]]
+    sha256 = "bfc0e2b4635fadaed0da38901569ab3b4155969a0a94fe8841c136d87ab7316c"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.aarch64-linux-musl-cxx11.tar.gz"
+[[X42Zconvo]]
+arch = "aarch64"
+git-tree-sha1 = "20e552f6ba2abfaffe83752e9e8b904da04bc68c"
+os = "freebsd"
+
+    [[X42Zconvo.download]]
+    sha256 = "874c0ab44d193c83ea1db78815e122c66d367ab62d8b92f93df72e96e0e45ad8"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.aarch64-unknown-freebsd.tar.gz"
+[[X42Zconvo]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c2d192d0b05b9eb5a1495a138376e68f8bf074c1"
+libc = "glibc"
+os = "linux"
+
+    [[X42Zconvo.download]]
+    sha256 = "42925fc098e9969aa482efa85e94e2a74a4a5e49f8344a81995c42f8d35f242a"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[X42Zconvo]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "abf4ad4ac0587a8c4a478c3e602c2659f8be1d24"
+libc = "musl"
+os = "linux"
+
+    [[X42Zconvo.download]]
+    sha256 = "637c74507e697c4d0ce3986196adaa1b2a558f023d3378bc1faf83516ad27d57"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[X42Zconvo]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8a39409eb8b3d3a6ad562b3fa08242c93ce61b56"
+libc = "glibc"
+os = "linux"
+
+    [[X42Zconvo.download]]
+    sha256 = "428e46994ca6411ddaac978fc8eb5b813ef550d2c1bea83ed963e50b6ff0e3b7"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[X42Zconvo]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a41dab011827b2da1eed0b150648030e5ff98279"
+libc = "musl"
+os = "linux"
+
+    [[X42Zconvo.download]]
+    sha256 = "2c684dd8ada8a21158acccf00100fcd4d472add9985968926f70b2db5ea47460"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[X42Zconvo]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a506cd59cc27a2c2cd1258a8b041049d0fa40f5d"
+libc = "glibc"
+os = "linux"
+
+    [[X42Zconvo.download]]
+    sha256 = "64ba8bfbf3af6d995d637a9a88d1203f56d5a99833445e4e24dcc852a5da63d1"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.i686-linux-gnu-cxx11.tar.gz"
+[[X42Zconvo]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f96580fd167a5c2b437961c8a40c7df915e831d1"
+libc = "musl"
+os = "linux"
+
+    [[X42Zconvo.download]]
+    sha256 = "2d64c1231f4fd81444d40769141db14b67e5b3653af47586699cf0892c0ae9b8"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.i686-linux-musl-cxx11.tar.gz"
+[[X42Zconvo]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "66bc9bad6455e17905317b06170cc48550929bf7"
+os = "windows"
+
+    [[X42Zconvo.download]]
+    sha256 = "74da724256e5134862ab4cf796760aa83862a1386a6a2c217b3e851c54ee7f7b"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.i686-w64-mingw32-cxx11.tar.gz"
+[[X42Zconvo]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ed1b44ed6726c6b2bd3ebc6880b06dc1d91fc818"
+libc = "glibc"
+os = "linux"
+
+    [[X42Zconvo.download]]
+    sha256 = "75eca438ff0917f3eee2ec9951621e6de002188dd67998aaabaca85bdd605eae"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[X42Zconvo]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c76210a23806120e883005856aa7f8bdc62633bd"
+libc = "glibc"
+os = "linux"
+
+    [[X42Zconvo.download]]
+    sha256 = "3d54c2134cfd0b80a6301c274d782ac680b0b44088d1918aa7d7e1d9591fd582"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.riscv64-linux-gnu-cxx11.tar.gz"
+[[X42Zconvo]]
+arch = "x86_64"
+git-tree-sha1 = "768c032508e956d73a59fa196875bdb83031448a"
+os = "macos"
+
+    [[X42Zconvo.download]]
+    sha256 = "e8f94535a8323dafe1cc992bbc556fcd2387fecd93570b72a9b367f8b09e0899"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.x86_64-apple-darwin.tar.gz"
+[[X42Zconvo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4b793fb64c1908f3bf9575c1d6033a1a6e1f71a8"
+libc = "glibc"
+os = "linux"
+
+    [[X42Zconvo.download]]
+    sha256 = "a8f2476014ce5ca6c68bc421e6fc689c89b7d6bdde19d55ecc22c81972615e1a"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.x86_64-linux-gnu-cxx11.tar.gz"
+[[X42Zconvo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ae165f36e791535951ff9042fd6a381602ff0eab"
+libc = "musl"
+os = "linux"
+
+    [[X42Zconvo.download]]
+    sha256 = "6c4f7bb6fc22c1afea2866c7decd14b3d54458e1f7b32121c1ae3b5f98b3ab80"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.x86_64-linux-musl-cxx11.tar.gz"
+[[X42Zconvo]]
+arch = "x86_64"
+git-tree-sha1 = "f0a6afb65618ef3808fab3aa432b4d8566431ce6"
+os = "freebsd"
+
+    [[X42Zconvo.download]]
+    sha256 = "24ea256fcc700736bbb082232fc20ba0c59cd3e2a5ef90c3ffc78ffa31e33d54"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.x86_64-unknown-freebsd.tar.gz"
+[[X42Zconvo]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e8c0307790b16e75adf911a3ff1513f11f1cfbc8"
+os = "windows"
+
+    [[X42Zconvo.download]]
+    sha256 = "ba177b9d70d496ceb1e594760cb0aaa36f8c29782963a5062cd730b419bd9781"
+    url = "https://github.com/JuliaBinaryWrappers/X42Zconvo_jll.jl/releases/download/X42Zconvo-v2025.6.6+0/X42Zconvo.v2025.6.6.x86_64-w64-mingw32-cxx11.tar.gz"

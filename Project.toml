@@ -1,0 +1,23 @@
+name = "X42Zconvo_jll"
+uuid = "45bf65ab-e82d-59c6-9519-20e96b219bf4"
+version = "2025.6.6+0"
+
+[deps]
+lv2_jll = "7b3f7994-2f4c-56ea-8c5f-7c434df6080d"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+libsndfile_jll = "5bf562c0-5a39-5b4f-b979-f64ac885830c"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+FFTW_jll = "f5851436-0d7a-5f13-b9de-f02708fd171a"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+libsamplerate_jll = "9427e74d-4e05-59c1-8ff3-7d74b6e52ac8"
+
+[compat]
+JLLWrappers = "1.7.0"
+julia = "1.10"
+lv2_jll = "1.18.10"
+Libdl = "< 0.0.1, 1"
+libsndfile_jll = "1.2.2"
+FFTW_jll = "3.3.11"
+Artifacts = "< 0.0.1, 1"
+libsamplerate_jll = "0.1.10"
